@@ -1,0 +1,35 @@
+div{
+    color:rgb(59, 59, 162);
+}
+
+#div1{
+    color: green;
+}
+
+#div2{
+    color:crimson;
+}
+
+
+#unorder-list {
+    color:moccasin;
+    font-size: 2rem;
+}
+
+#order-list {
+    color:darkmagenta;
+}
+.large-font {
+    font-size: 2rem;
+}
+.deep-background {
+    background-color:
+    black;
+    
+    font-size: 4rem;
+}
+.version{
+   background-color: green;
+   color:white;
+   padding: 10px; 
+}
